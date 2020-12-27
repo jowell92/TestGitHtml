@@ -1,0 +1,6 @@
+git init        //start local repo
+git add <file>  //Add file
+git status      //chech status
+git commit      //commit changes
+git push        //push to remote repo
+git pull        //pull ltest remote repo
